@@ -1,6 +1,7 @@
 # Predict-Retail-Sales
 <p>The topic "Applying and comparing the effectiveness of KNN, Linear Regression, Decision Tree & Random Forest to the problem of predicting sales" focuses on researching the application of supervised machine learning regression models to predict sales in the retail industry.</p>
-<ul>The research was conducted with three basic goals:
+<p>The research was conducted with three basic goals:</p>
+<ul>
   <li> Understand the process, methods and practices of data mining and data preprocessing;</li>
   <li> Find out important attributes that affect sales;</li>
   <li> Compare models and find the most effective model.</li>
